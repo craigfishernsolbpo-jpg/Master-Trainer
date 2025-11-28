@@ -1,0 +1,5 @@
+{
+  "name": "Real Estate VA Master Trainer AI",
+  "description": "An AI-powered application that generates a professional, 8-day intensive training roadmap for Virtual Assistants specializing in real estate operations. Users can customize the plan based on the VA's name, areas of focus, and specific U.S. real estate market.",
+  "requestFramePermissions": []
+}
